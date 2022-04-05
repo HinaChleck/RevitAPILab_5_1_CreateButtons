@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_5_1_CreateButtons.dll"</Assembly>
+    <AddInId>ED6CB80F-E3E7-4F11-9CBE-39F5BB6E877C</AddInId>
+    <FullClassName>RevitAPILab_5_1_CreateButtons.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Узнать количество труб, дверей, V стен </Text>
+  </AddIn>
+</RevitAddIns>
